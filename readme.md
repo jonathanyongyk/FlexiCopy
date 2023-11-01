@@ -24,3 +24,7 @@ folder2\subfolder2a\file3.txt
 ```Powershell
 Get-Content -Path file.txt | Copy-Files -path c:\source -destination c:\destination
 ```
+
+
+# Reference
+https://learn.microsoft.com/en-us/powershell/scripting/developer/module/how-to-write-a-powershell-script-module?view=powershell-7.2  
